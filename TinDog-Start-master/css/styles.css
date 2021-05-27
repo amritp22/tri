@@ -1,0 +1,127 @@
+
+.Container-fluid{
+  padding: 3% 15%;
+  padding-bottom: 200px;
+}
+
+.cara-text{
+  padding: 7% 15%;
+}
+#cta{
+  background-color: #e93b81;
+  text-align: center;
+  padding: 7% 15%;
+}
+.dogo{
+  width:20%;
+border-radius: 50%;
+margin-top: 1rem;
+  padding: 1.5rem;
+}
+h1{
+  font-family: Montserrat-Black;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+h2{
+  font-family: Montserrat-bold;
+  font-size: 3rem;
+font-style: bold;
+
+
+
+}
+h3{
+  font-family: Montserrat-Bold;
+  font-size: 1.5rem;
+
+}
+
+.icona{
+  margin-bottom: 1.5rem;
+}
+.icona:hover{
+  color:#ff4c68;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.fp-box{
+  text-align: center;
+  padding: 5%;
+}
+.foot{
+  padding: 2rem 1rem;
+  margin-top: 1.5rem;
+  margin-right: 1rem;
+}
+#footer{
+  background-color: #fff;
+  text-align:center;
+  padding: 2%;
+}
+.loo{
+  padding: 2% 0.5%;
+}
+.title-img{
+  width:21%;
+  transform: rotate(25deg);
+   position:absolute;
+   right: 34%;
+}
+#pricing{
+  text-align:center;
+  padding: 7% 15%;
+}
+
+#title{
+  background-color: #e93b81;
+  color:#fff;
+}
+
+.logo{
+  width: 15%;
+  padding: 1.5rem;
+margin-bottom: 2.5rem;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #fff;
+}
+.nav-item{
+  padding: 0.8px 18px;
+
+
+}
+.navbar{
+  padding-bottom: 1.5rem;
+}
+.nav-link{
+  font-family: Montserrat;
+  text-decoration-color: #fff;
+}
+p{
+  color: #8f8f8f;
+
+}
+#press{
+  text-align: center;
+  background-color: #e93b81;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #e93b81;
+}
+@media (max-width 9000px) {
+  .title-img{
+    position: static;
+    transform: rotate(0deg);
+  }
+}
